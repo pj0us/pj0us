@@ -2,7 +2,7 @@
 ### 🥰 My Bot: #
 - Invite my bot to discord [**Here**](https://piemusicbot.tk)
 
-- Check top.gg link about my bot:
+- Check top.gg link about my bot [**Here**](https://top.gg/bot/864821086490066974)
 
 [![Top.gg](https://top.gg/api/widget/864821086490066974.svg)](https://top.gg/bot/864821086490066974)
 
